@@ -9,5 +9,5 @@ description = "A small library to calculate most variables of shapes from just o
 authors = [
     { name = "Tatpoato" }
 ]
-license = "Custom / Non modifiable for Commercial use."
+# license = "Custom / Non modifiable for Commercial use."
 
