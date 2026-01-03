@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "SimpleGeometry"
+version = "0.1"
+description = "A small library to calculate most variables of shapes from just one!"
+authors = [
+    { name = "Tatpoato" }
+]
+license = "Custom / Non modifiable for Commercial use."
+
