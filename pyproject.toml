@@ -9,6 +9,7 @@ description = "A small library to calculate most variables of shapes from just o
 authors = [
     { name = "Tatpoato" }
 ]
+keywords = ["Geometry", "Simple", "simple", "geometry", "calc"]
 # license = "Custom / Non modifiable for Commercial use."
 
 [tool.hatch.build.targets.wheel]
