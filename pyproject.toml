@@ -3,7 +3,7 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "SimpleGeometry"
+name = "SimpleGeometryCalc"
 version = "0.0.2"
 description = "A small library to calculate most variables of shapes from just one!"
 authors = [
