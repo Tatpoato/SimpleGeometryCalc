@@ -10,6 +10,7 @@ authors = [
     { name = "Tatpoato" }
 ]
 keywords = ["Geometry", "Simple", "simple", "geometry", "calc"]
+readme = "README.md"
 # license = "Custom / Non modifiable for Commercial use."
 
 [tool.hatch.build.targets.wheel]
