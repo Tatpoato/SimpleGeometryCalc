@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "SimpleGeometryCalc"
-version = "0.0.6.1"
+version = "0.0.6.2"
 description = "A small library to calculate most variables of shapes from just one!"
 authors = [
     { name = "Tatpoato" }
