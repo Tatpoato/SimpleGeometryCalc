@@ -9,6 +9,9 @@ description = "A small library to calculate most variables of shapes from just o
 authors = [
     { name = "Tatpoato" }
 ]
+maintainers = [
+    {name = "Tatpoato"}
+]
 keywords = ["Geometry", "Simple", "simple", "geometry", "calc"]
 readme = "README.md"
 # license = "Custom / Non modifiable for Commercial use."
